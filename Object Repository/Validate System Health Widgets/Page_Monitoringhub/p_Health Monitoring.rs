@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Health Monitoring</name>
+   <tag></tag>
+   <elementGuidId>56543695-f299-420e-8e01-96ca77a6ea57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.config-tool-head</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>98ad1753-e49a-4d66-a847-d5f33e127959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>config-tool-head</value>
+      <webElementGuid>c06bfda6-7ed1-4026-bb5e-62543164e1d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Health Monitoring</value>
+      <webElementGuid>e227bb29-bf3e-470a-914a-6d17be68b3d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid p-0&quot;]/main[@class=&quot;mainDiv&quot;]/div[@class=&quot;mainContent&quot;]/div[@class=&quot;MainContentMargin&quot;]/div[@class=&quot;col-lg-12 HMHeader mt-3 mb-3&quot;]/div[@class=&quot;NameHeading1&quot;]/p[@class=&quot;config-tool-head&quot;]</value>
+      <webElementGuid>20e34bb6-f850-4ee7-928b-c5fdace6fc88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div/p</value>
+      <webElementGuid>9fdb99ad-57d5-48da-8620-50be914d9095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration Tool'])[1]/following::p[3]</value>
+      <webElementGuid>81f57976-1780-4ece-b78b-f5d0f5b93ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health Report'])[1]/following::p[3]</value>
+      <webElementGuid>0fd7eabf-a045-422e-be0f-06b73b1c28be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Data'])[1]/preceding::p[1]</value>
+      <webElementGuid>9caae9e2-d591-402e-8c4d-58a20bfe4c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Health'])[1]/preceding::p[1]</value>
+      <webElementGuid>bc84cbb7-51d3-493d-9a3a-90f9c13ff415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/p</value>
+      <webElementGuid>09ccf34c-0da5-4b0e-ac5d-b4a2e8d60a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Health Monitoring' or . = 'Health Monitoring')]</value>
+      <webElementGuid>3ec56cc8-927a-4872-a385-cc8a97406ab8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

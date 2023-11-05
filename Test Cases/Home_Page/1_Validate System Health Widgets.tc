@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When we click on system health widgets then its should be go to helath monitoring dashboard page.</description>
+   <name>1_Validate System Health Widgets</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e35d75b6-2624-4d41-bac2-7af7c957b01f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d92bc9ec-3568-459d-b373-08fcb2cf6028</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login Data/Login Data</testDataId>
+   </testDataLinks>
+</TestCaseEntity>

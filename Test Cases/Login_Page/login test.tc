@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51ed41e1-e09f-40ae-a8a2-2e1ad7d4d57a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>14089e49-fa89-4224-b63e-ca4686a1f44d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login Data/Login Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>14089e49-fa89-4224-b63e-ca4686a1f44d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Email</value>
+      <variableId>5deb08cc-60da-44fd-b94f-72a49f8bd90d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>14089e49-fa89-4224-b63e-ca4686a1f44d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>101262f8-00f3-4e21-ad7e-79ec6d048fe4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'devendra@mailinator.com'</defaultValue>
+      <description></description>
+      <id>5deb08cc-60da-44fd-b94f-72a49f8bd90d</id>
+      <masked>true</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'C/Qzn8ORT1NGjy0xF1Crrg==\r\n'</defaultValue>
+      <description></description>
+      <id>101262f8-00f3-4e21-ad7e-79ec6d048fe4</id>
+      <masked>true</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
