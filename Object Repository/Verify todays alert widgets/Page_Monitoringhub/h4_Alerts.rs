@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Alerts</name>
+   <tag></tag>
+   <elementGuidId>884d378f-c8d7-461d-a9d8-275485250ecf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/div/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>260f0fde-eea5-4939-9e97-1e1bdb27499b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alerts</value>
+      <webElementGuid>cada6006-5852-44f7-a568-776562b95df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid p-0&quot;]/main[@class=&quot;mainDiv&quot;]/div[@class=&quot;mainContent&quot;]/div[1]/div[@class=&quot;MainContentMargin&quot;]/div[@class=&quot;row col-lg-12&quot;]/div[@class=&quot;col-lg-12 SecondDivSearch dashboardHeadingInnerDiv&quot;]/div[@class=&quot;cameramainheader&quot;]/h4[1]</value>
+      <webElementGuid>328ea060-b35a-4f45-9132-7cb010cc7c8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div/div/div/h4</value>
+      <webElementGuid>694e888d-b281-4ba2-a1c9-129024d95ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration Tool'])[1]/following::h4[1]</value>
+      <webElementGuid>033cacf5-458b-46b7-8934-62dfc5b9a0ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health Report'])[1]/following::h4[1]</value>
+      <webElementGuid>b9370b18-7a2a-4a61-9b56-2d5549469947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(3854)'])[1]/preceding::h4[1]</value>
+      <webElementGuid>9683f4fc-ca0d-4817-914c-903e171ccaf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1918)'])[1]/preceding::h4[1]</value>
+      <webElementGuid>8905f34d-0f8d-4dcb-9d1f-8e5e4e505a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>12e6ae70-d80a-4346-b3da-2c21df4c2f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Alerts' or . = 'Alerts')]</value>
+      <webElementGuid>37cac5e4-1bf9-4b5a-9a15-a43e89707e15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -20,3 +20,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('Login_Page/login test'), [('Email') : 'devendra@mailinator.com', ('Password') : 'C/Qzn8ORT1NGjy0xF1Crrg==\r\n'], 
     FailureHandling.STOP_ON_FAILURE)
 
+WebUI.verifyElementClickable(findTestObject('Object Repository/Verify todays alert widgets/Page_Monitoringhub/p_Todays Alerts'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Monitoringhub/h4_Alerts'), 0)
+
